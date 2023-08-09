@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamvyas17&label=Profile%20views&color=0e75b6&style=flat" alt="shivamvyas17" /> </p>
 
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [Olympic Insights](https://github.com/shivamvyas17/Olympic-Insights.github.io)
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **shivamvyas2002@gmail.com**
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
