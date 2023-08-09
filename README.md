@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Vyas</h1>
+<h1 align="center">Hey Everyone 👋, I'm Shivam Vyas</h1>
 <h3 align="center">A dedicated data enthusiast hailing from India, proficient in unraveling insights and weaving stories from complex datasets to drive informed decisions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamvyas17&label=Profile%20views&color=0e75b6&style=flat" alt="shivamvyas17" /> </p>
